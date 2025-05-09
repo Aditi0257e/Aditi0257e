@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aditi Chatterjee  
 
-A passionate **Artifical Intelligence & Machine Learning and Web Developer** 🚀  
+A passionate **Artifical Intelligence & Machine Learning Enthusiastic and Web Developer** 🚀  
 
 - 🔭 I’m currently working on **Machine Learning and Web Development**  
 - 🌱 I’m currently learning **Deep Learning**  
